@@ -2,6 +2,26 @@
 
 A comprehensive web-based restaurant management system built with PHP, MySQL, and Bootstrap. This system allows restaurants to manage their menus, orders, customers, and staff efficiently.
 
+
+Repository: https://github.com/0xyz-exe/Restaurant-Management-System
+
+## Screenshots
+
+### Restaurant Analytics & Management Dashboard
+![Dashboard](docs/screenshots/01_dashboard.png)
+
+### Menu Item Catalog & Category Management
+![Menu Management](docs/screenshots/02_menu_management.png)
+
+### Live Order Tracking & POS Register
+![Order Processing](docs/screenshots/03_order_processing.png)
+
+### Customer Order Details & Receipt Billing
+![Receipt Billing](docs/screenshots/04_billing_receipt.png)
+
+### Staff Administration & Access Permissions
+![Staff Management](docs/screenshots/05_staff_management.png)
+
 ## ✨ Features
 
 - **Dashboard**: Overview of restaurant statistics and recent activities
